@@ -127,10 +127,10 @@ var image = document.querySelector('.image-show img')
 let active = false 
 function checkImage() {
     if (answerDisplaySection.value == '') {
-        image.src = '/oju-close-removebg-preview.png'
+        image.src = '../Simple_Calculator/oju-close-removebg-preview.png'
     }
     else {
-        image.src = '/ojuopened-removebg-preview.png'    
+        image.src = '../Simple_Calculator/ojuopened-removebg-preview.png'    
     }
 }
 //////////////////////////////////////////

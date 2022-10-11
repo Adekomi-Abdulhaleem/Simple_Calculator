@@ -13,8 +13,8 @@ header .image-show {display: flex;
                     align-items: center;
                     margin: -30px auto 5px;
 }
-header .image-show img {height: 40px;
-                        width: 100px;
+header .image-show img {height: 41px;
+                        width: 99px;
 }
 main {display: flex;
       justify-content: center;
